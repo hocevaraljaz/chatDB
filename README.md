@@ -11,3 +11,4 @@ Mogoče bi lahko izboljšala izgled aplikacije, vendar za enkrat nisva imela vel
 
 Ker sva izhajala iz prejšnje različice in ni bilo veliko dela, sva si ga primerno porazdelila in sodelovala.
 
+![brez naslova](https://cloud.githubusercontent.com/assets/24512038/21083281/2a806e7e-bfed-11e6-89eb-55e2266cb3a9.png)
